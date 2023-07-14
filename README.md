@@ -3,9 +3,9 @@ A concise RESTful API for seamless book management. It supports CRUD operations,
 ### Deployed using render: [Deployed Link](https://books-api-render.onrender.com/books)
 
 ## Technology Stack and Tools
-* Node JS
-* Express JS
-* Postman
+* [Node JS](https://nodejs.org/en/download)
+* [Express JS](https://expressjs.com/)
+* [Postman](https://www.postman.com/)
 
 ## Setting Up
 
