@@ -13,3 +13,20 @@ A concise RESTful API for seamless book management. It supports CRUD operations,
 Sucess status code: 204
 
 <img width="1440" alt="Screenshot 2023-07-14 at 2 18 23 PM" src="https://github.com/RahulSelvakumar/Books_API/assets/112105461/40b2fcda-4925-48fa-ae12-cc2fdf27d6cf">
+
+## Technology Stack and Tools
+* Node JS
+* Express JS
+* Postman
+
+## Setting Up
+
+### 1. Clone or Download repository
+### 2. Install Dependencies
+```
+npm install
+```
+### 3. Start the application
+```
+node index.js
+```
