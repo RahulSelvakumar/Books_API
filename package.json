@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "RESTFul API for Clinigo Interview",
   "main": "index.js",
-  "engines":{
-    "node":"14.x"
-  },
   "scripts": {
     "start": "node index.js"
   },
