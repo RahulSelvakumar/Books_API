@@ -23,7 +23,7 @@ const bookSchema=new mongoose.Schema({
 const Book=mongoose.model('book',bookSchema);
 
 //Routes
-app.get("/", async (req, res) => {
+app.get("/books", async (req, res) => {
     try {
       const books = await Book.find();
       res.json(books);
